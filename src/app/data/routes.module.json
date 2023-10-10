@@ -1,0 +1,491 @@
+[
+    {
+      "path": "/plumbers/",
+      "zoneId": "delhi",
+      "categoryId": "plumbers",
+      "pageType": "CATEGORY_PAGE",
+      "isActive": true,
+      "priority": 0.7,
+      "changeFreq": "monthly",
+      "pageData": {
+        "heroSection": {
+          "breadcrumbItems": [
+            {
+              "displayName": "Home",
+              "link": "/"
+            },
+            {
+              "displayName": "Plumbers"
+            }
+          ],
+          "heading1": "Book your professional plumber service",
+          "heroBullets": [
+            {
+              "priority": 1,
+              "title": "GET APPOINTMENT",
+              "description": "Get a fast and accurate quote for your plumbing needs with just a few clicks."
+            },
+            {
+              "priority": 2,
+              "title": "CONFIRM BOOKING",
+              "description": "Confirm your appointment and select a convenient time for our expert plumbers to visit your location."
+            },
+            {
+              "priority": 3,
+              "title": "WE’LL FIX IT",
+              "description": "Relax and let us handle the plumbing. Our experienced team will leave your home in perfect working order."
+            }
+          ]
+        },
+        "banner1": {
+          "bgImg": null,
+          "title": "Get the results you deserve with our top-notch service.",
+          "subTitle": null,
+          "url": null
+        },
+        "mainContent": {
+          "title": "About Plumber Services",
+          "html": "<p style=\"color: #535d68;\">When it comes to plumbing issues, time is of the essence. Leaks, clogs, and other plumbing problems can cause significant damage to your home or business if not addressed quickly and properly. That’s where Oyebusy comes in. We offer professional plumbing services to our customers, ensuring that their plumbing issues are fixed quickly and efficiently.</p> <p style=\"color: #535d68;\">Our team of licensed and experienced plumbers can handle any plumbing problem, no matter how big or small. From simple repairs to complex installations, we have the expertise and equipment to get the job done right the first time.</p> <h3 style=\"color: var(--genheadingcolor);\">Our services include but are not limited to:</h3> <ul style=\"color: #535d68;\"> <li>Drain cleaning</li> <li>Leak detection and repair</li> <li>Toilet repair and installation</li> <li>Faucet repair and installation</li> <li>Water heater repair and installation</li> <li>Gas line repair and installation</li> <li>Pipe repair and installation</li> </ul> <h3 style=\"color: var(--genheadingcolor);\">Why choose Oyebusy for your plumbing needs?</h3> <ul style=\"color: #535d68;\"> <li>Our team of licensed plumbers has the expertise and experience to handle any plumbing issue.</li> <li>We understand that plumbing emergencies can happen at any time, which is why we offer 24/7 emergency services. We respond quickly to your calls and arrive at your location promptly.</li> <li>We offer competitive pricing for our plumbing services, and we always provide upfront pricing with no hidden fees.</li> <li>Take pride in the quality of our work and always strive to provide the best service possible.</li> <li>Our goal is to ensure that our customers are satisfied with our services. We work hard to exceed their expectations and provide excellent customer service.</li> </ul> <p style=\"color: #535d68;\">Don’t let plumbing issues cause you stress and inconvenience. Contact Oyebusy for all your plumbing needs. We’re here to help!</p> <p style=\"color: #535d68;\">Connect with the professionals at Oyebusy for plumbing services which are available at the most affordable services. Our professionals are always there to help you get rid of all plumbing issues very easily and offer high quality services.</p>"
+        },
+        "aboutServices": {
+          "title": "WHAT WE DO",
+          "subTitle": "Check out some of our professional services!",
+          "services": [
+            {
+              "priority": 1,
+              "title": "Leaky Basin / Sink Repair",
+              "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/plumber-repair-experienced-attentive-middleaged-man-examining-bottom-kitchen-sink-768x511.jpg",
+              "features": [
+                "Waste pipe leakage fix",
+                "Tap leakage fix",
+                "Get plumber today"
+              ]
+            },
+            {
+              "priority": 2,
+              "title": "Need Drain Blockage Fix?",
+              "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/service-maintenance-worker-repairing-768x512.jpg",
+              "features": [
+                "Sink overground / underground",
+                "Bathroom, balcony drain clear",
+                "Get blockage removal today"
+              ]
+            },
+            {
+              "priority": 3,
+              "title": "Get Bath Fitting Installation",
+              "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/oyebusy-plumber-minor-fitting-768x512.jpg",
+              "features": [
+                "Soap holder, towel hanger, corner set",
+                "Tap, shower, Jet & mixer"
+              ]
+            },
+            {
+              "priority": 4,
+              "title": "Tap & Mixer Repair & Installation",
+              "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/man-adjusting-water-tap-with-wrench-768x511.jpg",
+              "features": [
+                "Hot & cold mixer repair",
+                "Tap repair / replacement"
+              ]
+            },
+            {
+              "priority": 5,
+              "title": "Toilet Pot / Flush Repair & Installation",
+              "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/oyebusy-toilet-pot-repair-installation-768x513.jpg",
+              "features": [
+                "Flush button repair",
+                "PVC, Ceramic, In-wall flush repair",
+                "Floor / wall mounted pot repair",
+                "Installation / Repalcement",
+                "Get inspection today"
+              ]
+            }
+          ]
+        },
+        "banner2": {
+          "bgImg": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/service-maintenance-worker-repairing.jpg",
+          "title": "Over 1500+ Home Owners are already using Oyebusy",
+          "subTitle": null,
+          "url": "#about-service"
+        },
+        "reasonToLove": {
+          "title": "REASON",
+          "subTitle": "Reasons to love Oyebusy",
+          "description": "We're different from your typical plumbing company. We're out to create magic. The goal is to WOW you with outstanding plumbing services.​",
+          "features": [
+            {
+              "priority": 1,
+              "title": "Trusted & Skilled Plumbers",
+              "icon": null,
+              "description": "At Oyebusy, we only employ the best. All of our plumbers are meticulously screened to ensure that we are satisfied with their work."
+            },
+            {
+              "priority": 2,
+              "title": "Customer Recommended",
+              "icon": null,
+              "description": "Oyebusy plumbers are continuously reviewed by our customers. Each and every plumber is expected to maintain a high standard to work with us."
+            },
+            {
+              "priority": 3,
+              "title": "Commitment To Trust & Safety",
+              "icon": null,
+              "description": "Your home is your haven. At Oyebusy, we strive to provide a dependable and trustworthy experience that exceeds your expectations. Our services are highly regarded by our clients."
+            }
+          ]
+        },
+        "banner3": {
+          "bgImg": null,
+          "title": "Honesty is the best policy.",
+          "subTitle": "We communicate honestly. No hidden fees, no surprises, no upsells! Only honest work and trustworthy staff.",
+          "url": null
+        },
+        "reviews": {
+          "title": "REVIEWS ",
+          "subTitle": "Read reviews from past customers about our electrician services.",
+          "description": null,
+          "features": [
+            {
+              "priority": 1,
+              "title": "Anjali Desai",
+              "icon": null,
+              "description": "I had a leaky pipe that was causing water damage in my house. Oyebusy sent a plumber who was able to fix the issue and prevent any further damage. Thank you!"
+            },
+            {
+              "priority": 2,
+              "title": "Vidya Prakash",
+              "icon": null,
+              "description": "The Oyebusy plumber who came to my house was friendly, professional, and skilled. He was able to fix my clogged toilet quickly and efficiently. I highly recommend this service!"
+            },
+            {
+              "priority": 3,
+              "title": "Raj Sharma",
+              "icon": null,
+              "description": "I had a plumbing emergency and Oyebusy came to the rescue. The plumber they sent was able to fix the issue in no time and saved the day. Thank you!"
+            },
+            {
+              "priority": 4,
+              "title": "Ravi Kumar",
+              "icon": null,
+              "description": "The Oyebusy plumber who came to my house was knowledgeable and professional. He fixed my broken showerhead quickly and even gave me some tips for preventing future issues."
+            },
+            {
+              "priority": 5,
+              "title": "Kavita",
+              "icon": null,
+              "description": "I had a broken garbage disposal and Oyebusy sent a plumber who was able to fix it quickly. He was very professional and knowledgeable. Great service!"
+            },
+            {
+              "priority": 6,
+              "title": "Abhijeet",
+              "icon": null,
+              "description": "I had a leaky faucet that was driving me crazy. Oyebusy sent a plumber who was able to fix it in no time. I appreciate the quick and efficient service!"
+            }
+          ]
+        },
+        "about": [
+          {
+            "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/household-problem-woman-pointing-broken-tap-with-jet-water-man-with-suitcase-tools.jpg",
+            "html": "<h4>Plumbing Problems? Choose Oyebusy for Expert Solutions!</h4> <p>If you’re dealing with plumbing issues, don’t panic! Oyebusy is here to help you with all your plumbing needs. Our team of skilled plumbers is committed to providing you with high-quality services and expert solutions to all your plumbing problems.</p>"
+          },
+          {
+            "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/worker-with-pipe-wrench.jpg",
+            "html": "<h4>Expert Plumbing Solutions: Choose Oyebusy for Reliable Service!</h4> <p>If you’re facing plumbing issues, Oyebusy is the team to call for expert and reliable service. Our experienced plumbers are trained to handle all types of plumbing problems, from minor leaks to major repairs. We take pride in our prompt response times and work to provide timely solutions for your plumbing needs. Whether you have a residential or commercial plumbing issue, our team is equipped with the latest tools and techniques to provide efficient and effective solutions. Choose Oyebusy for dependable plumbing services that you can count on.</p>"
+          }
+        ],
+        "banner4": {
+          "bgImg": null,
+          "features": [
+            {
+              "priority": 1,
+              "value": 9,
+              "text": "Offering 9+ Different Services"
+            },
+            {
+              "priority": 2,
+              "value": 54,
+              "text": "Serving in 54+ cities"
+            },
+            {
+              "priority": 3,
+              "value": 1500,
+              "text": "Home Owners now Oyebusy Family"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "canonical": "/plumbers/",
+        "title": "Plumbers | Plumber Service | Plumbing Work | Bathroom Plumbing",
+        "description": "Facing plumbing issues? Our expert plumbers offer reliable plumber services, including bathroom plumbing and plumbing work, to ensure your home is leak-free",
+        "og:title": "Plumbers | Plumber Service | Plumbing Work | Bathroom Plumbing",
+        "og:type": "company",
+        "og:locale": "en_US",
+        "og:description": "Facing plumbing issues? Our expert plumbers offer reliable plumber services, including bathroom plumbing and plumbing work, to ensure your home is leak-free",
+        "og:url": "/plumbers/",
+        "og:site_name": "OyeBusy",
+        "og:image": "https://assets.oyebusy.com/oyebusy-black-logo.png",
+        "article:publisher": "https://www.facebook.com/oyebusyindia/",
+        "article:modified_time": "2022-12-28T10:58:34+00:00",
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Plumbers | Plumber Service | Plumbing Work | Bathroom Plumbing",
+        "twitter:description": "Facing plumbing issues? Our expert plumbers offer reliable plumber services, including bathroom plumbing and plumbing work, to ensure your home is leak-free",
+        "twitter:image": "https://assets.oyebusy.com/oyebusy-black-logo.png",
+        "twitter:site": "@oyebusyindia",
+        "twitter:label1": "Est. reading time",
+        "twitter:data1": "12 minutes"
+      }
+    },
+    {
+        "path": "/carpenters/",
+        "zoneId": "delhi",
+        "categoryId": "carpenter",
+        "pageType": "CATEGORY_PAGE",
+        "isActive": true,
+        "priority": 0.7,
+        "changeFreq": "monthly",
+        "pageData": {
+          "heroSection": {
+            "breadcrumbItems": [
+              {
+                "displayName": "Home",
+                "link": "/"
+              },
+              {
+                "displayName": "Plumbers"
+              }
+            ],
+            "heading1": "Book your professional expert carpenter service",
+            "heroBullets": [
+              {
+                "priority": 1,
+                "title": "GET APPOINTMENT",
+                "description": "Get a quick and best quote for your carpentry needs in just a few clicks."
+              },
+              {
+                "priority": 2,
+                "title": "CONFIRM BOOKING",
+                "description": "Confirm your booking and choose a convenient time for our professional carpenters to visit your home."
+              },
+              {
+                "priority": 3,
+                "title": "WE’LL FIX IT",
+                "description": "Relax and let us handle the carpentry work. Our experienced carpenter will do all your desired carpentry needs."
+              }
+            ]
+          },
+          "banner1": {
+            "bgImg": null,
+            "title": "Get the results you deserve with our top-notch service.",
+            "subTitle": null,
+            "url": null
+          },
+          "mainContent": {
+            "title": "About Plumber Services",
+            "html": "<p style=\"color: #535d68;\">Welcome to Oyebusy! We are proud to offer professional carpet cleaning services to our valued customers. Our team of skilled technicians use the latest equipment and techniques to clean and refresh your carpets, leaving them looking and feeling like new.</p> <p style=\"color: #535d68;\">At Oyebusy, we understand that carpets are a major investment in your home or business. That’s why we offer a comprehensive range of services to keep your carpets looking their best. From deep cleaning to stain removal, we have the expertise to tackle even the toughest carpet cleaning challenges.</p> <h3 style=\"color: var(--genheadingcolor);\">Our carpet cleaning services include:</h3> <ul style=\"color: #535d68;\"> <li>Deep cleaning: Our team of experts use specialized equipment to deep clean your carpets, removing dirt and grime that can accumulate over time. </li> <li>Stain removal: Whether it’s a stubborn stain or a pet accident, our team of professionals have the tools and knowledge to remove even the toughest carpet stains.</li> <li>Odor removal: Carpets can trap odors that linger long after the initial spill or accident. Our specialized equipment and techniques can remove even the most stubborn odors, leaving your carpets smelling fresh and clean.</li> <li>Pet hair removal: Pet hair can be a major nuisance, especially if you have allergies or asthma. </li> <li>Commercial carpet cleaning: We also offer professional carpet cleaning services for businesses, including offices, restaurants, and hotels. </li> </ul> <h3 style=\"color: var(--genheadingcolor);\">Why choose us for your carpet cleaning needs?</h3> <ul style=\"color: #535d68;\"> <li>Experienced technicians: Our team of experienced technicians have the knowledge and expertise to handle even the toughest carpet cleaning challenges.</li> <li>State-of-the-art equipment: We use the latest equipment and techniques to ensure that your carpets are cleaned thoroughly and efficiently.</li> <li>Competitive pricing: We offer competitive pricing for our carpet cleaning services, so you can get the best value for your money.</li> </ul> <p style=\"color: #535d68;\">Contact us today to schedule your professional carpet cleaning service with Oyebusy. We look forward to helping you keep your carpets looking and feeling like new!</p>"
+          },
+          "aboutServices": {
+            "title": "WHAT WE DO",
+            "subTitle": "Check out some of our professional services!",
+            "services": [
+              {
+                "priority": 1,
+                "title": "Furniture Repair & Fixes",
+                "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/man-assembling-white-chair-furniture-home_293060-7325.jpg",
+                "features": [
+                  "Any broken furniture get repair",
+                  "New furniture assembly",
+                  "Get repair today"
+                ]
+              },
+              {
+                "priority": 2,
+                "title": "Furniture Assembly / Dismantle",
+                "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/furniture-assembly-worker-standing-reading-instruction-using-tape-measure-worker-tools-1.jpg",
+                "features": [
+                  "Scope of Table, Shelf, Cabinet, Chair & more",
+                  "Get carpenter today"
+                ]
+              },
+              {
+                "priority": 3,
+                "title": "Drilling & Items Hanging",
+                "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/profile-view-good-looking-young-handyman-making-some-drill-holes-wall-installing-shelf.jpg",
+                "features": [
+                  "Decorative fancy hangings",
+                  "Photo frame, clock, decors",
+                  "Same day service"
+                ]
+              },
+              {
+                "priority": 4,
+                "title": "Bed Assembly / Dismantle",
+                "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/from-ma-assembling-bed.jpg",
+                "features": [
+                  "Storage, Non-storage, Hydraulic & Bunkbed",
+                  "Same day service"
+                ]
+              },
+              {
+                "priority": 5,
+                "title": "Door Repair & Installation",
+                "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/profile-view-attractive-handyman-using-power-drill-fix-door-knob-house.jpg",
+                "features": [
+                  "Hard to close door fix",
+                  "Get inspection today"
+                ]
+              },
+              {
+                "priority": 6,
+                "title": "Door Lock Repair & Installation",
+                "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/entrance-meeting-room.jpg",
+                "features": [
+                  "Lock Repair, Installation & Replacement",
+                  "Same day service"
+                ]
+              },
+              {
+                "priority": 6,
+                "title": "The New Furniture Making",
+                "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/hands-driving-nail-with-hammer-into-wooden-shelf.jpg",
+                "features": [
+                  "All type new furniture work",
+                  "Get quote today"
+                ]
+              }
+            ]
+          },
+          "banner2": {
+            "bgImg": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/new-kitchen.jpg",
+            "title": "Over 1500+ Home Owners are already using Oyebusy",
+            "subTitle": null,
+            "url": "#about-service"
+          },
+          "reasonToLove": {
+            "title": "REASON",
+            "subTitle": "Reasons to love Oyebusy",
+            "description": "We're different from your typical carpentry repair company. We're out to create magic. The goal is to WOW you with outstanding carpenter services.",
+            "features": [
+              {
+                "priority": 1,
+                "title": "Trusted & Vetted Carpenters",
+                "icon": null,
+                "description": "Oyebusy offers reliable and experienced carpenters who have been thoroughly vetted to ensure top-notch carpentry services for your needs."
+              },
+              {
+                "priority": 2,
+                "title": "Customer Recommended",
+                "icon": null,
+                "description": "Oyebusy carpenters are continuously reviewed by our customers. Each and every carpenter is to maintain a high standard to work with us."
+              },
+              {
+                "priority": 3,
+                "title": "Commitment To Trust & Safety",
+                "icon": null,
+                "description": "Your home is your sanctuary. At Oyebusy we go above and beyond to create a more trusted and reliable experience. Peoples love our services."
+              }
+            ]
+          },
+          "banner3": {
+            "bgImg": null,
+            "title": "Honesty is the best policy.",
+            "subTitle": "We communicate honestly. No hidden fees, no surprises, no upsells! Only honest work and trustworthy staff.",
+            "url": null
+          },
+          "reviews": {
+            "title": "REVIEWS ",
+            "subTitle": "Read what our past customers said about our carpentry services.",
+            "description": null,
+            "features": [
+              {
+                "priority": 1,
+                "title": "Anjali",
+                "icon": null,
+                "description": "I recently hired Oyebusy Carpenter Services to build some custom furniture for my home, and I couldn't be happier with the results. Their team of skilled carpenters delivered high-quality workmanship and customized solutions that met my unique needs."
+              },
+              {
+                "priority": 2,
+                "title": "Vidya Prakash",
+                "icon": null,
+                "description": "The Oyebusy plumber who came to my house was friendly, professional, and skilled. He was able to fix my clogged toilet quickly and efficiently. I highly recommend this service!"
+              },
+              {
+                "priority": 1,
+                "title": "Raj Sharma",
+                "icon": null,
+                "description": "I had a plumbing emergency and Oyebusy came to the rescue. The plumber they sent was able to fix the issue in no time and saved the day. Thank you!"
+              },
+              {
+                "priority": 4,
+                "title": "Ravi Kumar",
+                "icon": null,
+                "description": "The Oyebusy plumber who came to my house was knowledgeable and professional. He fixed my broken showerhead quickly and even gave me some tips for preventing future issues."
+              },
+              {
+                "priority": 5,
+                "title": "Kavita",
+                "icon": null,
+                "description": "I had a broken garbage disposal and Oyebusy sent a plumber who was able to fix it quickly. He was very professional and knowledgeable. Great service!"
+              },
+              {
+                "priority": 1,
+                "title": "Abhijeet",
+                "icon": null,
+                "description": "I had a leaky faucet that was driving me crazy. Oyebusy sent a plumber who was able to fix it in no time. I appreciate the quick and efficient service!"
+              }
+            ]
+          },
+          "about": [
+            {
+              "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/portrait-smiling-male-carpenter-holding-handsaw-looking-camera.jpg",
+              "html": "<h4>We're India's most trusted house carpanter service!</h4> <p>At Oye Busy, we take pride in being India's most trusted house carpenter service. Our team of experienced and skilled carpenters is dedicated to delivering quality workmanship and customized solutions to meet the unique needs of every client. From repairing and restoring furniture to designing and building custom pieces, we offer a wide range of carpentry services that cater to both residential and commercial spaces. We understand that time is valuable, which is why we ensure that every project is completed within the agreed-upon timeframe without compromising on quality. We also offer competitive pricing to make our services accessible to everyone. With Oye Busy, you can trust that your carpentry needs are in good hands.</p>"
+            },
+            {
+              "img": "https://www.oyebusy.co.in/wp-content/uploads/2023/04/smiling-craftsman-with-electric-drill.jpg",
+              "html": "<h4>Why choose Oyebusy to carpenter your home?</h4> <p>OyeBusy is a popular choice for people looking to have their homes professionally carpenter in India. Here are some reasons why:</p> <ol> <li>Skilled and experienced carpenters: Our carpenters have years of experience in the industry and have honed their skills to deliver quality workmanship.</li> <li>Wide range of services: We offer a wide range of carpentry services, from repairing and restoring furniture to designing and building custom pieces for your home or office.</li> <li>Customized solutions: We understand that every client has unique needs, which is why we work closely with them to design and build customized solutions that meet their specific requirements.</li> <li>Quality materials: We use only the highest quality materials for our projects, ensuring that every piece we create is durable and long-lasting.</li> <li>Affordable pricing: We offer competitive pricing for our services, without compromising on the quality of our work.</li> <li>Timely completion: We understand that time is valuable, which is why we ensure that every project is completed within the agreed-upon timeframe.</li> <li>Professional service: Our team is committed to providing professional and courteous service, ensuring that every client is satisfied with our work.</li> </ol>"
+            }
+          ],
+          "banner4": {
+            "bgImg": null,
+            "features": [
+              {
+                "priority": 1,
+                "value": 9,
+                "text": "Offering 9+ Different Services"
+              },
+              {
+                "priority": 2,
+                "value": 54,
+                "text": "Serving in 54+ cities"
+              },
+              {
+                "priority": 3,
+                "value": 1500,
+                "text": "Home Owners now Oyebusy Family"
+              }
+            ]
+          }
+        },
+        "meta": {
+          "canonical": "/carpenters/",
+          "title": "Carpenters | Carpenter Service | Carpentry Work | Furniture Carpentry",
+          "description": "Need a carpenter for your furniture or carpentry work Our experts offer reliable carpenter services and furniture carpentry to ensure your home looks perfect",
+          "og:title": "Carpenters | Carpenter Service | Carpentry Work | Furniture Carpentry",
+          "og:type": "company",
+          "og:locale": "en_US",
+          "og:description": "Need a carpenter for your furniture or carpentry work Our experts offer reliable carpenter services and furniture carpentry to ensure your home looks perfect",
+          "og:url": "/carpenters/",
+          "og:site_name": "OyeBusy",
+          "og:image": "https://assets.oyebusy.com/oyebusy-black-logo.png",
+          "article:publisher": "https://www.facebook.com/oyebusyindia/",
+          "article:modified_time": "2022-12-28T10:58:34+00:00",
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Carpenters | Carpenter Service | Carpentry Work | Furniture Carpentry",
+          "twitter:description": "Need a carpenter for your furniture or carpentry work Our experts offer reliable carpenter services and furniture carpentry to ensure your home looks perfect",
+          "twitter:image": "https://assets.oyebusy.com/oyebusy-black-logo.png",
+          "twitter:site": "@oyebusyindia",
+          "twitter:label1": "Est. reading time",
+          "twitter:data1": "12 minutes"
+        }
+      }
+  ]
